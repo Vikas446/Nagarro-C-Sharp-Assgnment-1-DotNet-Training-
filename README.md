@@ -1,2 +1,2 @@
-# Nagarro-C-Assgnment-1
+# Nagarro-C#-Assgnment-1
 C# Assignment 1 (Nagarro)
